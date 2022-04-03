@@ -1,7 +1,7 @@
 {
   "name": "first-react-app",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://k3lson.github.io/kelvinfree/",
   "dependencies": {
     "-": "^0.0.1",
