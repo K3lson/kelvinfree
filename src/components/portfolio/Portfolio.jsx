@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+import IMG1 from '../../assets/shoe.png'
+import IMG2 from '../../assets/realestate.png'
+import IMG3 from '../../assets/pepsi.png'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
@@ -11,23 +11,23 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title:'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https//github.io'
+    title:'A simple Sneakers gallery displaying shoe prices and their where to go get them',
+    github: 'https://github.com/K3lson/Sneakers-store',
+    demo: 'https://k3lson.github.io/Sneakers-store/'
   },
   {
     id: 2,
     image: IMG2,
-    title:'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https//github.io'
+    title:'A Modern Real Estate App built with React, Rapid Api and NextJs',
+    github: 'https://github.com/K3lson/Kelvin_RealEstate',
+    demo: 'https://kelvin-real-estate.vercel.app/'
   },
   {
     id: 3,
     image: IMG3,
-    title:'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https//github.io'
+    title:'A fully Responsive Pepsi Landing page built with HTML/CSS/JAVASCRIPT',
+    github: 'https://github.com/K3lson/Pepsi',
+    demo: 'https://k3lson.github.io/Pepsi/'
   },
   {
     id: 4,

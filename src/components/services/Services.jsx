@@ -16,16 +16,16 @@ const services = () => {
 
           <ul className="service__list">
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p>Designing desirable digital products for our clients</p>
             </li>
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p> Crafting a beautiful, functional and easy to use design system</p>
             </li>
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p>Craft seamless and attractive user experiences and interfaces in close collaboration with mobile, web and hardware </p>
             </li>
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p>Ensure a consistent design language across applications, users and platforms to provide a discernible Kisi experience</p>
             </li>
           </ul>
         </article>
@@ -39,26 +39,26 @@ const services = () => {
 
           <ul className="service__list">
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p>Designing user interfaces and navigation menus</p>
             </li>
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p>Writing and reviewing code for sites, typically HTML, XML, or JavaScript</p>
             </li>
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p>Integrating multimedia content onto a site</p>
             </li>
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p>Testing web applications</p>
             </li>
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p>Troubleshooting problems with performance or user experience</p>
             </li>
           </ul>
         </article>
         {/* END OF Web Dev */}
 
 
-        <article className="service">
+        {/* <article className="service">
           <div className="service__head">
             <h3>Content Creation</h3>
           </div>
@@ -77,7 +77,7 @@ const services = () => {
             <p>Lorem ipsum dolor sit amet consectetur .</p>
             </li>
           </ul>
-        </article>
+        </article> */}
         {/* END OF Content creation */}
       </div>
     </section>

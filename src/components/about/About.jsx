@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me-about.png'
 import {FaAward} from 'react-icons/fa'
 import {FaPeopleArrows} from 'react-icons/fa'
 import {MdOutlineLibraryAddCheck} from 'react-icons/md'
@@ -23,20 +23,20 @@ const About = () => {
             <article className='about__card'>
             <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>1+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
             <article className='about__card'>
             <FaPeopleArrows className='about__icon'/>
               <h5>Clients</h5>
-              <small>3+ Worldwide</small>
+              <small>10+ Worldwide</small>
             </article>
             <article className='about__card'>
             <MdOutlineLibraryAddCheck className='about__icon'/>
               <h5>Projects</h5>
-              <small>10+ completed</small>
+              <small>20+ completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint temporibus aperiam consequuntur debitis impedit nobis quis tempore labore laboriosam ipsa magni, optio deleniti delectus deserunt ipsam culpa, cum error corrupti!</p>
+          <p>I am a web designer and developer. I like to build creative designs from scratch and i experiment alot. I am quietly confident, naturally curious, and perpetually working on improving my skills one design problem at a time</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

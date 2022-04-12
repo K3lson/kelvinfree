@@ -44,10 +44,10 @@ header {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    margin-top: 4rem;
+    margin-top: 2rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
 }
 /*Scroll down*/
 .scroll__down {
@@ -76,5 +76,9 @@ header {
     }
     .header__socials, .scroll__down {
         display: none;
+    }
+
+    .me {
+        padding: 4rem 1.5rem 1.5rem 1.5rem;
     }
 }
