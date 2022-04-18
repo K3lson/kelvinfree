@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/shoe.png'
 import IMG2 from '../../assets/realestate.png'
 import IMG3 from '../../assets/pepsi.png'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -32,24 +32,24 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title:'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https//github.io'
+    title:'A Restaurant App landing page built with Mordern UI/UX in React.js ',
+    github: 'https://github.com/K3lson/restaurantApp',
+    demo: 'https://k3lson.github.io/restaurantApp/'
   },
   {
     id: 5,
     image: IMG5,
-    title:'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https//github.io'
+    title:'An NFT Collection Website Landing page with React JS',
+    github: 'https://github.com/K3lson/NFT-Wierdos',
+    demo: 'https://the-weirdos.netlify.app/'
   },
-  {
-    id: 6,
-    image: IMG6,
-    title:'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https//github.io'
-  }
+  // {
+  //   id: 6,
+  //   image: IMG6,
+  //   title:'This is a portfolio item title',
+  //   github: 'https://github.com',
+  //   demo: 'https//github.io'
+  // }
 ]
 
 

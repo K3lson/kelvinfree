@@ -28,7 +28,9 @@
 }
 
 
-
+.portfolio__item-image img {
+    border-radius: 20px;
+}
 
 
 

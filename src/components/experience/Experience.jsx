@@ -68,22 +68,22 @@ const experience = () => {
         <div className="experience__backend">
         <h3>Backend Development</h3>
           <div className="experience__content">
-            <article className='experience__details'>
+            {/* <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>NodeJS</h4>
                 <small className='text-light'>Basic</small>
                 </div>
               
-            </article>
-            <article className='experience__details'>
+            </article> */}
+            {/* <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>MongoDB</h4>
                 <small className='text-light'>Basic</small>
                 </div>
               
-            </article>
+            </article> */}
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>

@@ -7,7 +7,7 @@ import {AiOutlineTwitter} from 'react-icons/ai'
 const footer = () => {
   return (
     <footer id='footer'>
-      <a href="#" className='footer__logo'>KELVIN</a>
+      <a href="#" className='footer__logo'>FREEBORN</a>
 
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
@@ -27,7 +27,7 @@ const footer = () => {
 
 
       <div className="footer__copyright">
-        <small>&copy; KELVIN FREEBORN, All rights reserved</small>
+        <small>&copy; KELVIN OGBORIAUPHIEN, All rights reserved</small>
       </div>
     </footer>
   )

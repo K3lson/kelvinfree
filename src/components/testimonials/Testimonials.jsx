@@ -21,23 +21,23 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Tina Snow',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.'
+    name: 'Evelyn Ekojoka',
+    review: 'Kevin did a really marvelous job for my Perfume business website. I recommend that if you\'re looking for an e-commerce website contact him'
   },
   {
     avatar: AVTR2,
-    name: 'Shatta Wale',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.'
+    name: 'Dubby Azu',
+    review: 'Really beautiful pice of art Kelvin keep up the good work'
   },
   {
     avatar: AVTR3,
     name: 'Kwame Despite',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.'
+    review: 'The attention to details that kelvin puts on his work is marvelous. definitely recommend him for a business website'
   },
   {
     avatar: AVTR4,
-    name: 'Kwame Despite',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.'
+    name: 'Colins Obinna',
+    review: 'This is really nice!'
   }
 ]
 
