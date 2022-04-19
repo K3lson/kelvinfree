@@ -31,7 +31,7 @@ const data = [
   },
   {
     id: 4,
-    image: IMG4,
+    image: IMG4, 
     title:'A Restaurant App landing page built with Mordern UI/UX in React.js ',
     github: 'https://github.com/K3lson/restaurantApp',
     demo: 'https://k3lson.github.io/restaurantApp/'
