@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/kelvinfree/static/css/main.a98a64a4.css",
-    "main.js": "/kelvinfree/static/js/main.4b92962e.js",
+    "main.js": "/kelvinfree/static/js/main.04990f0b.js",
+    "static/media/Youtube.png": "/kelvinfree/static/media/Youtube.4d726d04627f9c49eeb6.png",
     "static/media/shoe.png": "/kelvinfree/static/media/shoe.74d2ce481511dfcf724c.png",
     "static/media/realestate.png": "/kelvinfree/static/media/realestate.2ebc42a732835c260ada.png",
     "static/media/portfolio4.png": "/kelvinfree/static/media/portfolio4.10fb0f09522b5ba39090.png",
-    "static/media/pepsi.png": "/kelvinfree/static/media/pepsi.6ffaca6cf7e668ee5eac.png",
+    "static/media/cv.pdf": "/kelvinfree/static/media/cv.59d55b928eed8dd3bf44.pdf",
     "static/media/portfolio5.png": "/kelvinfree/static/media/portfolio5.ce22029ff8cf9ef44afd.png",
-    "static/media/cv.pdf": "/kelvinfree/static/media/cv.1be768eb1afe52583eff.pdf",
     "static/media/portfolio6.jpg": "/kelvinfree/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/me.png": "/kelvinfree/static/media/me.90c37e5ce5081b12428b.png",
     "static/media/me-about.png": "/kelvinfree/static/media/me-about.57a84223214b892097da.png",
     "index.html": "/kelvinfree/index.html",
     "main.a98a64a4.css.map": "/kelvinfree/static/css/main.a98a64a4.css.map",
-    "main.4b92962e.js.map": "/kelvinfree/static/js/main.4b92962e.js.map"
+    "main.04990f0b.js.map": "/kelvinfree/static/js/main.04990f0b.js.map"
   },
   "entrypoints": [
     "static/css/main.a98a64a4.css",
-    "static/js/main.4b92962e.js"
+    "static/js/main.04990f0b.js"
   ]
 }
