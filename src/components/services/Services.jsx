@@ -58,27 +58,37 @@ const services = () => {
         {/* END OF Web Dev */}
 
 
-        {/* <article className="service">
+        <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Soft Skills</h3>
           </div>
 
           <ul className="service__list">
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p><b>Team Player</b></p>
             </li>
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p><b>Growth Mindset</b></p>
             </li>
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p><b>Problem Solving</b></p>
             </li>
             <li><BsCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur .</p>
+            <p><b>Adaptability</b></p>
             </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Active Listener</b></p>
+            </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Work Ethics</b></p>
+            </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Active Listener</b></p>
+            </li>
+            
           </ul>
-        </article> */}
-        {/* END OF Content creation */}
+        </article>
+        {/* Soft Skills */}
       </div>
     </section>
   )

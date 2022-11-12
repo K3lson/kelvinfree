@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/shoe.png'
 import IMG2 from '../../assets/realestate.png'
-import IMG3 from '../../assets/pepsi.png'
+import Youtube from '../../assets/Youtube.png'
 import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
@@ -24,10 +24,10 @@ const data = [
   },
   {
     id: 3,
-    image: IMG3,
-    title:'A fully Responsive Pepsi Landing page built with HTML/CSS/JAVASCRIPT',
+    image: Youtube,
+    title:'A React, NextJS and Rapid Api clone of youtube',
     github: 'https://github.com/K3lson/Pepsi',
-    demo: 'https://k3lson.github.io/Pepsi/'
+    demo: 'https://cute-zuccutto-f31eee.netlify.app/'
   },
   {
     id: 4,

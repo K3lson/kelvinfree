@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
             <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>2+ Years Freelancing</small>
             </article>
             <article className='about__card'>
             <FaPeopleArrows className='about__icon'/>
@@ -33,10 +33,10 @@ const About = () => {
             <article className='about__card'>
             <MdOutlineLibraryAddCheck className='about__icon'/>
               <h5>Projects</h5>
-              <small>20+ completed</small>
+              <small>40+ completed</small>
             </article>
           </div>
-          <p>I am a web designer and developer. I like to build creative designs from scratch and i experiment alot. I am quietly confident, naturally curious, and perpetually working on improving my skills one design problem at a time</p>
+          <p>I am a web designer and developer. I like to build creative designs from scratch and I experiment alot. I am quietly confident, naturally curious, and perpetually working on improving my skills one design problem at a time</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
