@@ -85,10 +85,19 @@ const services = () => {
             <li><BsCheck className='service__list-icon'/>
             <p><b>Active Listener</b></p>
             </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Leadership</b></p>
+            </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Time Management</b></p>
+            </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Attention to Details</b></p>
+            </li>
             
           </ul>
         </article>
-        {/* Soft Skills */}
+        {/* End of Soft Skills */}
       </div>
     </section>
   )

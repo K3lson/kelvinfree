@@ -148,23 +148,23 @@ const experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Adobe Photoshop</h4>
-                <small className='text-light'>Basic</small>
+                <h4>Microsoft Dynamics</h4>
+                <small className='text-light'>Experienced</small>
                 </div>
               
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Adobe After Effects</h4>
-                <small className='text-light'>Experience</small>
+                <h4>MES Systems</h4>
+                <small className='text-light'>Experienced</small>
                 </div>
               
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Sublime Text</h4>
+                <h4> SAP ERP Systems</h4>
                 <small className='text-light'>Intermediate</small>
                 </div>
               
@@ -195,6 +195,13 @@ const experience = () => {
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>GitLab</h4>
+                <small className='text-light'>Experience</small>
+                </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>MicroSoft Excel</h4>
                 <small className='text-light'>Experience</small>
                 </div>
             </article>
