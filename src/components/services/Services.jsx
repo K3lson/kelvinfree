@@ -98,6 +98,33 @@ const services = () => {
           </ul>
         </article>
         {/* End of Soft Skills */}
+        <article className="service">
+          <div className="service__head">
+            <h3>Manufacturing/Technical Skills</h3>
+          </div>
+
+          <ul className="service__list">
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Folklift License (A-C)</b></p>
+            </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Drivers License (Class B)</b></p>
+            </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>ERP/SAP System</b></p>
+            </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Packing and Assembly</b></p>
+            </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Lithium Battery Production Process</b></p>
+            </li>
+            <li><BsCheck className='service__list-icon'/>
+            <p><b>Overhead Crane License</b></p>
+            </li>
+          </ul>
+        </article>
+        {/* End of Soft Skills */}
       </div>
     </section>
   )
